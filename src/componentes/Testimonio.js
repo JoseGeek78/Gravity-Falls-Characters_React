@@ -10,7 +10,7 @@ function Testimonio() {
     <div className="contenedor-texto-testimonio">
            <p className="nombre-testimonio">Dipper Pines</p>
            <p className="cargo-testimonio">Aficcionado al misterio</p>
-           <p className="texto-testimonio">Mason «Dipper» Pines​ es un personaje ficticio y uno de los dos personajes principales de la serie animada de Disney Channel Gravity Falls. El personaje tiene la voz de Jason Ritter y está basado libremente en la infancia del creador de la serie Alex Hirsch.2​ Dipper es el único personaje que aparece en todos los episodios de Gravity Falls.</p>
+           <p className="texto-testimonio">Mason «Dipper» Pines​ es un personaje ficticio y uno de los dos personajes principales de la serie animada de Disney Channel Gravity Falls. El personaje tiene la voz de Jason Ritter en su versión original y está basado libremente en la infancia del creador de la serie Alex Hirsch.2​ Dipper es el único personaje que aparece en todos los episodios de Gravity Falls.</p>
     </div>
 
     </div>
