@@ -8,3 +8,8 @@
     background-color: #e9e3e3;
     box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
 }
+
+ .imagen-testimonio {
+    height: 100%;
+    width: auto;
+ }
